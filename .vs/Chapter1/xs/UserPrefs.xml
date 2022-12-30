@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{A513BE3A-417B-4E1A-B0F3-00D5FB5B29B0}|Default">
+  <MonoDevelop.Ide.ItemProperties.LBTTCalculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LBTTCalculatorTest FirstBuild="True" />
+</Properties>

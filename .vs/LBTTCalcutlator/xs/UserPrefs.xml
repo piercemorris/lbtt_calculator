@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{A513BE3A-417B-4E1A-B0F3-00D5FB5B29B0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LBTTCalcutlator.sln">
+    <Files>
+      <File FileName="LBTTCalculatorTest/UnitTest1.cs" Line="8" Column="4" />
+      <File FileName="LBTTCalculatorTest/Usings.cs" Line="1" Column="1" />
+      <File FileName="HelloCS/Program.cs" Line="10" Column="1" />
+      <File FileName="HelloCS/LBTTCalculator.csproj" Line="7" Column="11" />
+      <File FileName="HelloCS/StampDutyCalculator.cs" Line="13" Column="6" />
+      <File FileName="LBTTCalcutlator.sln" Line="6" Column="86" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="LBTTCalcutlator" expanded="True">
+            <Node name="LBTTCalculatorTest" expanded="True" />
+            <Node name="LBTTCalcutlator.sln" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="LBTTCalcutlator" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LBTTCalculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LBTTCalculatorTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
