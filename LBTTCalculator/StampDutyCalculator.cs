@@ -1,7 +1,7 @@
 ﻿public class StampDutyCalculator
 {
-    private List<TaxBand> _taxBands;
-    private int _housePrice;
+    private readonly List<TaxBand> _taxBands;
+    private readonly int _housePrice;
 
     public StampDutyCalculator(List<TaxBand> taxBands, int housePrice)
     {
@@ -9,7 +9,7 @@
         _taxBands = taxBands;
     }
 
-    public double calculateStampDuty()
+    public double CalculateStampDuty()
     {
         var stampDuty = 0.0;
 

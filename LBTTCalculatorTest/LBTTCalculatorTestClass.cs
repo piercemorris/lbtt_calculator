@@ -20,7 +20,7 @@ public class LBTTCalculatorTestClass
         StampDutyCalculator stampDutyCalculator = new(taxBands, housePrice);
 
         // Act
-        var stampDuty = stampDutyCalculator.calculateStampDuty();
+        var stampDuty = stampDutyCalculator.CalculateStampDuty();
 
         // Assert
         Assert.Equal(expectedStampDuty, stampDuty);

@@ -16,6 +16,6 @@ internal class Program
     {
         var housePrice = Convert.ToInt32(Console.ReadLine());
         stampDutyCalculator = new(taxBands, housePrice);
-        Console.WriteLine(stampDutyCalculator.calculateStampDuty());
+        Console.WriteLine(stampDutyCalculator.CalculateStampDuty());
     }
 }
